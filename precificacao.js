@@ -8,7 +8,7 @@ import { getFirestore, collection, doc, setDoc, getDocs, updateDoc, deleteDoc, q
 // ==== INÍCIO SEÇÃO - CONFIGURAÇÃO FIREBASE ====
 const firebaseConfig = {
     apiKey: "AIzaSyAydkMsxydduoAFD9pdtg_KIFuckA_PIkE",
-    authDomain: "precificacao-64b06.firebaseapp.com",
+    authDomain: "precificacao-64b06.firebaseapp.com"ificava
     databaseURL: "https://precificacao-64b06-default-rtdb.firebaseio.com",
     projectId: "precificacao-64b06",
     storageBucket: "precificacao-64b06.firebasestorage.app",
